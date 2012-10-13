@@ -1,3 +1,18 @@
+/** 
+* Copyright by Filippo Diotalevi <filippo@knokode.com>
+* 
+* Licensed under Apache License 2.0
+* http://www.apache.org/licenses/LICENSE-2.0
+* 
+* Official repository at
+* https://github.com/fdiotalevi/jub
+*
+* Get the code with
+* git clone https://github.com/fdiotalevi/jub.git
+* 
+**/
+
+
 /**
 classes
 .clickable:  bind-> javascript function name
